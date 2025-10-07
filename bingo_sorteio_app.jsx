@@ -4,6 +4,8 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { motion } from "framer-motion";
 
+//oi
+
 export default function BingoApp() {
   const [sortedNumbers, setSortedNumbers] = useState([]);
   const [lastNumber, setLastNumber] = useState(null);
